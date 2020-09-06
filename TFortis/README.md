@@ -1,0 +1,2 @@
+- https://tfortis.ru/support/software/
+- https://www.tfortis.ru/assets/files/po/tfortis-407-mib-v2.3.mib.zip
