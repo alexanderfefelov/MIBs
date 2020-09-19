@@ -1,0 +1,1 @@
+- https://www.tp-link.com/us/support/download/t1500g-10mps/v1/#MIBs_Files
