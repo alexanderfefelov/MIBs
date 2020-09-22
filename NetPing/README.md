@@ -1,0 +1,3 @@
+- http://www.netping.ru/products/netping-2-pwr-220-v13-gsm3g#files
+- http://www.netping.ru/products/netping-4-pwr-220-v3-sms#files
+- http://www.netping.ru/products/uniping-v3#files
